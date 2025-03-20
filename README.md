@@ -100,7 +100,7 @@ MIT
 
 ## Author
 
-[Tanmay](https://github.com/yourusername)
+[Tanmay]((https://github.com/tanmayg1313))
 
 ## Acknowledgments
 
