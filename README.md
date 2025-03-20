@@ -2,7 +2,6 @@
 
 A sleek, modern web application for merging multiple PDF files into a single document. This app runs entirely in your browser - no server uploads required, ensuring your documents stay private and secure.
 
-![Tanmay's PDF Merger](https://i.imgur.com/PLACEHOLDER.png)
 
 > **Note:** Replace the placeholder image URL with a screenshot of your application before publishing to GitHub.
 
@@ -100,7 +99,7 @@ MIT
 
 ## Author
 
-[Tanmay]((https://github.com/tanmayg1313))
+[Tanmay](https://github.com/tanmayg1313)
 
 ## Acknowledgments
 
